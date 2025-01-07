@@ -34,11 +34,11 @@ function E() {
 }
 
 function F() {
-    modal('跟我走吧宝宝~', G);
+    modal('mua~', G);
 }
 
 function G() {
-    modal('房产证上写你的名字', H);
+    modal('一直陪着你', H);
 }
 
 function H() {
@@ -61,7 +61,7 @@ function I() {
 }
 
 function J() {
-    modal('行，我们去民政局登记吧', function() {
+    modal('love you forever', function() {
         fireworks();
     });
 }
